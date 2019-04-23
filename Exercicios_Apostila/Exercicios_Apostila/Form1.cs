@@ -158,5 +158,44 @@ namespace Exercicios_Apostila {
             }
             MessageBox.Show(result);
         }
+
+        private void button13_Click(object sender, EventArgs e) {
+            Conta conta1 = new Conta();
+            Conta conta2 = new Conta();
+
+            conta1.titular = "Diego";
+            conta1.numero = 1;
+            conta1.saldo = 100.0;
+            conta1.idade = 21;
+
+            conta2.titular = "Carlos";
+            conta2.numero = 2;
+            conta2.saldo = 200;
+            conta2.idade = 17;
+
+            MessageBox.Show("Titular: " + conta1.titular);
+            conta1.Depositar(200);
+            MessageBox.Show("Saldo: " + conta1.saldo);
+
+            if (conta1.Sacar(150)) {
+                MessageBox.Show("Saque realizado com sucesso");
+            } else {
+                MessageBox.Show("Saldo insuficiente");
+            }
+
+            MessageBox.Show("Saldo: " + conta1.saldo);
+
+            conta1.Transferir(50, conta2);
+
+            MessageBox.Show(conta1.titular + ": " + conta1.saldo);
+            MessageBox.Show(conta2.titular + ": " + conta2.saldo);
+
+            if (conta2.Sacar(250)) {
+                MessageBox.Show("Saque realizado com sucesso");
+            } else {
+                MessageBox.Show("Saldo insuficiente");
+            }
+            
+        }
     }
 }
