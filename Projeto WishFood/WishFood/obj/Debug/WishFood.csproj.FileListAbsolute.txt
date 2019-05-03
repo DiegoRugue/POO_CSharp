@@ -1,0 +1,73 @@
+C:\Users\Estágio Tarde\source\repos\WishFood\WishFood\bin\Debug\WishFood.exe.config
+C:\Users\Estágio Tarde\source\repos\WishFood\WishFood\bin\Debug\WishFood.exe
+C:\Users\Estágio Tarde\source\repos\WishFood\WishFood\bin\Debug\WishFood.pdb
+C:\Users\Estágio Tarde\source\repos\WishFood\WishFood\obj\Debug\WishFood.csprojAssemblyReference.cache
+C:\Users\Estágio Tarde\source\repos\WishFood\WishFood\obj\Debug\WishFood.Form1.resources
+C:\Users\Estágio Tarde\source\repos\WishFood\WishFood\obj\Debug\WishFood.Properties.Resources.resources
+C:\Users\Estágio Tarde\source\repos\WishFood\WishFood\obj\Debug\WishFood.csproj.GenerateResource.cache
+C:\Users\Estágio Tarde\source\repos\WishFood\WishFood\obj\Debug\WishFood.csproj.CoreCompileInputs.cache
+C:\Users\Estágio Tarde\source\repos\WishFood\WishFood\obj\Debug\WishFood.exe
+C:\Users\Estágio Tarde\source\repos\WishFood\WishFood\obj\Debug\WishFood.pdb
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\bin\Debug\WishFood.exe.config
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\bin\Debug\WishFood.exe
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\bin\Debug\WishFood.pdb
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\obj\Debug\WishFood.csprojAssemblyReference.cache
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\obj\Debug\WishFood.Form1.resources
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\obj\Debug\WishFood.FormCadastrar.resources
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\obj\Debug\WishFood.Properties.Resources.resources
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\obj\Debug\WishFood.csproj.GenerateResource.cache
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\obj\Debug\WishFood.csproj.CoreCompileInputs.cache
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\obj\Debug\WishFood.exe
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\obj\Debug\WishFood.pdb
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\obj\Debug\WishFood.FormCadastroProduto.resources
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\obj\Debug\WishFood.FormCliente.resources
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\obj\Debug\WishFood.FormLogista.resources
+C:\Users\Estágio Tarde\Desktop\WishFood\WishFood\obj\Debug\WishFood.FormCadastroEstabelecimento.resources
+C:\Users\diego\Desktop\WishFood\WishFood\bin\Debug\WishFood.exe.config
+C:\Users\diego\Desktop\WishFood\WishFood\bin\Debug\WishFood.exe
+C:\Users\diego\Desktop\WishFood\WishFood\bin\Debug\WishFood.pdb
+C:\Users\diego\Desktop\WishFood\WishFood\obj\Debug\WishFood.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\WishFood\WishFood\obj\Debug\WishFood.FormCadastroEstabelecimento.resources
+C:\Users\diego\Desktop\WishFood\WishFood\obj\Debug\WishFood.FormCadastroProduto.resources
+C:\Users\diego\Desktop\WishFood\WishFood\obj\Debug\WishFood.Form1.resources
+C:\Users\diego\Desktop\WishFood\WishFood\obj\Debug\WishFood.FormCadastrar.resources
+C:\Users\diego\Desktop\WishFood\WishFood\obj\Debug\WishFood.FormCliente.resources
+C:\Users\diego\Desktop\WishFood\WishFood\obj\Debug\WishFood.FormLogista.resources
+C:\Users\diego\Desktop\WishFood\WishFood\obj\Debug\WishFood.Properties.Resources.resources
+C:\Users\diego\Desktop\WishFood\WishFood\obj\Debug\WishFood.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\WishFood\WishFood\obj\Debug\WishFood.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\WishFood\WishFood\obj\Debug\WishFood.exe
+C:\Users\diego\Desktop\WishFood\WishFood\obj\Debug\WishFood.pdb
+D:\WishFood\WishFood\bin\Debug\WishFood.exe.config
+D:\WishFood\WishFood\bin\Debug\WishFood.exe
+D:\WishFood\WishFood\bin\Debug\WishFood.pdb
+D:\WishFood\WishFood\obj\Debug\WishFood.csprojAssemblyReference.cache
+D:\WishFood\WishFood\obj\Debug\WishFood.FormCadastroEstabelecimento.resources
+D:\WishFood\WishFood\obj\Debug\WishFood.FormCadastroProduto.resources
+D:\WishFood\WishFood\obj\Debug\WishFood.Form1.resources
+D:\WishFood\WishFood\obj\Debug\WishFood.FormCadastrar.resources
+D:\WishFood\WishFood\obj\Debug\WishFood.FormCliente.resources
+D:\WishFood\WishFood\obj\Debug\WishFood.FormLogista.resources
+D:\WishFood\WishFood\obj\Debug\WishFood.Properties.Resources.resources
+D:\WishFood\WishFood\obj\Debug\WishFood.csproj.GenerateResource.cache
+D:\WishFood\WishFood\obj\Debug\WishFood.csproj.CoreCompileInputs.cache
+D:\WishFood\WishFood\obj\Debug\WishFood.exe
+D:\WishFood\WishFood\obj\Debug\WishFood.pdb
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\bin\Debug\WishFood.exe.config
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\bin\Debug\WishFood.exe
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\bin\Debug\WishFood.pdb
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.csprojAssemblyReference.cache
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.FormCadastroEstabelecimento.resources
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.FormCarrinho.resources
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.FormCadastroProduto.resources
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.Form1.resources
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.FormCadastrar.resources
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.FormCliente.resources
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.FormLogista.resources
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.Properties.Resources.resources
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.csproj.GenerateResource.cache
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.csproj.CoreCompileInputs.cache
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.exe
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.pdb
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.FormPagamento.resources
+C:\Users\Estágio Tarde\Desktop\Diego Rugue\WishFood\obj\Debug\WishFood.FormNovoEndereco.resources
