@@ -197,5 +197,36 @@ namespace Exercicios_Apostila {
             }
             
         }
+
+        private void Button14_Click(object sender, EventArgs e)
+        {
+            Conta mauricio = new Conta();
+            mauricio.numero = 1;
+            mauricio.titular = "Mauricio";
+            mauricio.saldo = 100.0;
+
+            Conta mauricio2 = new Conta();
+            mauricio2.numero = 1;
+            mauricio2.titular = "Mauricio";
+            mauricio2.saldo = 100.0;
+
+            if (mauricio == mauricio2)
+            {
+                MessageBox.Show("As contas são iguais");
+            }
+            else
+            {
+                MessageBox.Show("As contas são diferentes");
+            }
+        }
+
+        private void Button15_Click(object sender, EventArgs e)
+        {
+            /* var tamanho = 5;
+            tamanho = tamanho / 2.0;
+            MessageBox.Show(tamanho);
+            */
+            MessageBox.Show("Não compila pq o tipo da variavel é diferente");
+        }
     }
 }

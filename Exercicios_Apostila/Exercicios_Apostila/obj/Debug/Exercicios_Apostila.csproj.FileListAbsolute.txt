@@ -8,3 +8,13 @@ C:\Users\Estágio Tarde\source\repos\Exercicios_Apostila\Exercicios_Apostila\obj
 C:\Users\Estágio Tarde\source\repos\Exercicios_Apostila\Exercicios_Apostila\obj\Debug\Exercicios_Apostila.csproj.CoreCompileInputs.cache
 C:\Users\Estágio Tarde\source\repos\Exercicios_Apostila\Exercicios_Apostila\obj\Debug\Exercicios_Apostila.exe
 C:\Users\Estágio Tarde\source\repos\Exercicios_Apostila\Exercicios_Apostila\obj\Debug\Exercicios_Apostila.pdb
+C:\Users\diego\Desktop\Exercicios_Apostila\Exercicios_Apostila\bin\Debug\Exercicios_Apostila.exe.config
+C:\Users\diego\Desktop\Exercicios_Apostila\Exercicios_Apostila\bin\Debug\Exercicios_Apostila.exe
+C:\Users\diego\Desktop\Exercicios_Apostila\Exercicios_Apostila\bin\Debug\Exercicios_Apostila.pdb
+C:\Users\diego\Desktop\Exercicios_Apostila\Exercicios_Apostila\obj\Debug\Exercicios_Apostila.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Exercicios_Apostila\Exercicios_Apostila\obj\Debug\Exercicios_Apostila.Form1.resources
+C:\Users\diego\Desktop\Exercicios_Apostila\Exercicios_Apostila\obj\Debug\Exercicios_Apostila.Properties.Resources.resources
+C:\Users\diego\Desktop\Exercicios_Apostila\Exercicios_Apostila\obj\Debug\Exercicios_Apostila.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Exercicios_Apostila\Exercicios_Apostila\obj\Debug\Exercicios_Apostila.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Exercicios_Apostila\Exercicios_Apostila\obj\Debug\Exercicios_Apostila.exe
+C:\Users\diego\Desktop\Exercicios_Apostila\Exercicios_Apostila\obj\Debug\Exercicios_Apostila.pdb

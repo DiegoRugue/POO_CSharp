@@ -8,3 +8,26 @@ C:\Users\Estágio Tarde\source\repos\Bank\Bank\bin\Debug\Bank.exe
 C:\Users\Estágio Tarde\source\repos\Bank\Bank\bin\Debug\Bank.pdb
 C:\Users\Estágio Tarde\source\repos\Bank\Bank\obj\Debug\Bank.exe
 C:\Users\Estágio Tarde\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\diego\Desktop\Exercicios_Apostila\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\diego\Desktop\Exercicios_Apostila\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\diego\Desktop\Exercicios_Apostila\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\diego\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.Form1.resources
+C:\Users\diego\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\diego\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\diego\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\Estágio Tarde\Desktop\Exercicios_Apostila\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Estágio Tarde\Desktop\Exercicios_Apostila\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Estágio Tarde\Desktop\Exercicios_Apostila\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Estágio Tarde\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\Estágio Tarde\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.Form1.resources
+C:\Users\Estágio Tarde\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Estágio Tarde\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Estágio Tarde\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Estágio Tarde\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Estágio Tarde\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\Estágio Tarde\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.FormCadastrar.resources
+C:\Users\diego\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.FormCadastrar.resources
+C:\Users\diego\Desktop\Exercicios_Apostila\Bank\Bank\obj\Debug\Bank.FormRelatorios.resources
